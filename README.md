@@ -1,1 +1,2 @@
-# Seminar
+Mauro Copetti
+Gitbuh Vs Bitbucket
